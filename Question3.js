@@ -1,6 +1,6 @@
-let studentAge = 20;            // number
-let studentName = "Alex";        // string
-let isEnrolled = true;          // boolean
+let studentAge = 20;            
+let studentName = "Alex";       
+let isEnrolled = true;          
 
 console.log("studentAge datatype:", typeof studentAge);
 console.log("studentName datatype:", typeof studentName);
